@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Müslüman Kaşif - Gizlilik Politikası</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; padding: 24px; max-width: 800px; margin: 0 auto; color: #333; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 24px; }
+        p, li { color: #555; }
+        .date { font-style: italic; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+
+    <h1>Müslüman Kaşif - Gizlilik Politikası</h1>
+    <p class="date">Son Güncelleme: 12 Eylül 2026</p>
+
+    <p><strong>Müslüman Kaşif</strong> olarak kullanıcılarımızın ve özellikle çocuklarımızın gizliliğine en üst düzeyde önem veriyoruz. Bu Gizlilik Politikası, uygulamamızı kullanırken kişisel verilerinizin nasıl korunduğunu açıklamaktadır.</p>
+
+    <h2>1. Kişisel Veri Toplanmaması</h2>
+    <p>Müslüman Kaşif uygulaması:</p>
+    <ul>
+        <li>Kullanıcılardan ad, soyad, e-posta, telefon numarası gibi hiçbir kişisel kimlik bilgisi talep etmez.</li>
+        <li>Kullanıcı hesabı / üyelik sistemi içermez.</li>
+        <li>Konum (GPS) verilerine erişmez ve toplamaz.</li>
+        <li>Kamera, mikrofon, galeri veya rehber gibi cihaz izinlerine erişmez.</li>
+    </ul>
+
+    <h2>2. Çocukların Gizliliği (COPPA & Aile Politikası Uyumluluğu)</h2>
+    <p>Müslüman Kaşif, çocuklar ve aileler için güvenli, eğitici bir oyun deneyimi sunmak amacıyla tasarlanmıştır. Uygulamamız:</p>
+    <ul>
+        <li>Google Play Aile Politikaları (Families Policy) ile tam uyumludur.</li>
+        <li>Çocuklardan herhangi bir kişisel tanımlayıcı veri toplamaz.</li>
+        <li>Android Reklam Kimliği (AD_ID) izni uygulamadan açıkça kaldırılmıştır; çocuk kullanıcıların kimlik takibi yapılmaz.</li>
+    </ul>
+
+    <h2>3. Reklamlar</h2>
+    <p>Uygulama içerisinde Google AdMob aracılığıyla reklam gösterilmektedir. Reklam gösteriminde Google Play'in Aile Politikası gerekliliklerine sıkı sıkıya uyulur:</p>
+    <ul>
+        <li>Reklam istekleri çocuklara uygun (Child-Directed Treatment) olarak etiketlenir.</li>
+        <li>Kişiselleştirilmemiş, yaşa uygun ve güvenli reklam içerikleri sunulur.</li>
+    </ul>
+
+    <h2>4. Çevrimdışı Kullanım ve Cihaz Depolama</h2>
+    <p>Oyunun ilerleme durumu ve kazanılan yıldız/hilal puanları tamamen kullanıcının kendi cihazında (yerel hafızada) saklanır; harici bir sunucuya aktarılmaz.</p>
+
+    <h2>5. İletişim</h2>
+    <p>Gizlilik politikamızla ilgili herhangi bir sorunuz veya geri bildiriminiz olması durumunda bizimle iletişime geçebilirsiniz:</p>
+    <p><strong>Geliştirici:</strong> Gemicioğlu<br>
+    <strong>Web Sitesi:</strong> <a href="https://gemiciogluu.github.io">https://gemiciogluu.github.io</a></p>
+
+</body>
+</html>
